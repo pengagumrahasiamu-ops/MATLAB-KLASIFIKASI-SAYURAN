@@ -1,5 +1,3 @@
-![alt text](?raw=true)
-
 Klasifikasi Sayuran Menggunakan SVM + HSV Segmentation
 
 Sistem klasifikasi citra sayuran berbasis **Support Vector Machine (SVM)** dengan preprocessing segmentasi warna **HSV Color Thresholding** dan ekstraksi ciri menggunakan **Color Moments** serta **GLCM (Gray-Level Co-occurrence Matrix)**. Aplikasi dilengkapi dengan antarmuka GUI interaktif yang memvisualisasikan seluruh pipeline proses pengolahan citra secara real-time.
@@ -9,10 +7,10 @@ Sistem klasifikasi citra sayuran berbasis **Support Vector Machine (SVM)** denga
 ## Tampilan Aplikasi
 
 ### GUI — Pipeline Visualisasi
-![GUI Aplikasi](screenshots/gui.png)
+![GUI Aplikasi](https://github.com/pengagumrahasiamu-ops/MATLAB-KLASIFIKASI-SAYURAN/blob/main/Hasil_evaluasi/GUI-dan-testing.png?raw=true)
 
 ### Confusion Matrix — Hasil Validasi
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](https://github.com/pengagumrahasiamu-ops/MATLAB-KLASIFIKASI-SAYURAN/blob/main/Hasil_evaluasi/Confusion-matrix.png?raw=true)
 
 ---
 
