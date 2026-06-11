@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/28828036/README.1.md)
 # Klasifikasi Sayuran Menggunakan SVM + HSV Segmentation
 
 Sistem klasifikasi citra sayuran berbasis **Support Vector Machine (SVM)** dengan preprocessing segmentasi warna **HSV Color Thresholding** dan ekstraksi ciri menggunakan **Color Moments** serta **GLCM (Gray-Level Co-occurrence Matrix)**. Aplikasi dilengkapi dengan antarmuka GUI interaktif yang memvisualisasikan seluruh pipeline proses pengolahan citra secara real-time.
